@@ -1,1 +1,1 @@
-Api_Key = "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"
+Api_Key = "Your_API_Key"
